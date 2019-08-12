@@ -1,0 +1,6 @@
+#Mon, 12 Aug 2019 12:13:34 -0600
+
+info.app.version=0.1
+info.app.name=midi-builder
+grails.env=development
+info.app.grailsVersion=3.3.10
